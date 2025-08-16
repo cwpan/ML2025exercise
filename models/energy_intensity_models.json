@@ -1,0 +1,1954 @@
+{
+  "1": {
+    "country_code": 1,
+    "country_name": "World",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.03811403508771816,
+    "coef_": -0.06912280701754388,
+    "intercept_": 143.5850877192983
+  },
+  "2": {
+    "country_code": 2,
+    "country_name": "Africa",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.1627894736842076,
+    "coef_": -0.05457894736842103,
+    "intercept_": 114.05647368421049
+  },
+  "4": {
+    "country_code": 4,
+    "country_name": "Afghanistan",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.17912280701754524,
+    "coef_": 0.05859649122807017,
+    "intercept_": -116.19508771929823
+  },
+  "5": {
+    "country_code": 5,
+    "country_name": "South America",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.11121929824561583,
+    "coef_": -0.020140350877192983,
+    "intercept_": 43.639859649122805
+  },
+  "8": {
+    "country_code": 8,
+    "country_name": "Albania",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.14648245614033667,
+    "coef_": -0.08119298245614033,
+    "intercept_": 166.0014385964912
+  },
+  "9": {
+    "country_code": 9,
+    "country_name": "Oceania",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.10971052631578515,
+    "coef_": -0.0677894736842105,
+    "intercept_": 140.58957894736835
+  },
+  "11": {
+    "country_code": 11,
+    "country_name": "Western Africa",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.391868421052635,
+    "coef_": -0.06247368421052629,
+    "intercept_": 128.71121052631574
+  },
+  "12": {
+    "country_code": 12,
+    "country_name": "Algeria",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.1555789473684268,
+    "coef_": 0.05136842105263156,
+    "intercept_": -99.8154736842105
+  },
+  "13": {
+    "country_code": 13,
+    "country_name": "Central America",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.0904736842105267,
+    "coef_": -0.026526315789473683,
+    "intercept_": 56.4418947368421
+  },
+  "14": {
+    "country_code": 14,
+    "country_name": "Eastern Africa",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.3844561403508908,
+    "coef_": -0.180719298245614,
+    "intercept_": 370.6013859649122
+  },
+  "15": {
+    "country_code": 15,
+    "country_name": "Northern Africa",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.16129824561403538,
+    "coef_": 0.0017719298245613988,
+    "intercept_": -0.30138596491227077
+  },
+  "17": {
+    "country_code": 17,
+    "country_name": "Middle Africa",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.6845438596491212,
+    "coef_": -0.027385964912280687,
+    "intercept_": 58.99629824561401
+  },
+  "18": {
+    "country_code": 18,
+    "country_name": "Southern Africa",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.09273684210526367,
+    "coef_": -0.10042105263157894,
+    "intercept_": 208.78799999999998
+  },
+  "19": {
+    "country_code": 19,
+    "country_name": "Americas",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.11094736842104991,
+    "coef_": -0.08457894736842103,
+    "intercept_": 174.44331578947364
+  },
+  "20": {
+    "country_code": 20,
+    "country_name": "Andorra",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.1195175438596473,
+    "coef_": -0.017807017543859643,
+    "intercept_": 37.81482456140349
+  },
+  "21": {
+    "country_code": 21,
+    "country_name": "Northern America",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.062131578947381305,
+    "coef_": -0.10743859649122806,
+    "intercept_": 221.04414035087714
+  },
+  "24": {
+    "country_code": 24,
+    "country_name": "Angola",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.4247017543859653,
+    "coef_": -0.044333333333333336,
+    "intercept_": 91.05829824561404
+  },
+  "28": {
+    "country_code": 28,
+    "country_name": "Antigua and Barbuda",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.23750000000000004,
+    "coef_": 0.04071929824561402,
+    "intercept_": -78.58507017543857
+  },
+  "30": {
+    "country_code": 30,
+    "country_name": "Eastern Asia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.1344736842105403,
+    "coef_": -0.09947368421052626,
+    "intercept_": 206.05105263157884
+  },
+  "31": {
+    "country_code": 31,
+    "country_name": "Azerbaijan",
+    "latest_year": 2022,
+    "mae_on_holdout": 3.110026315789471,
+    "coef_": -0.4122105263157894,
+    "intercept_": 833.138842105263
+  },
+  "32": {
+    "country_code": 32,
+    "country_name": "Argentina",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.19721052631578972,
+    "coef_": -0.029631578947368422,
+    "intercept_": 62.46089473684211
+  },
+  "34": {
+    "country_code": 34,
+    "country_name": "Southern Asia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.06420175438596576,
+    "coef_": -0.06777192982456139,
+    "intercept_": 140.7264385964912
+  },
+  "35": {
+    "country_code": 35,
+    "country_name": "South-Eastern Asia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.2645614035087701,
+    "coef_": -0.06798245614035085,
+    "intercept_": 140.20149122807013
+  },
+  "36": {
+    "country_code": 36,
+    "country_name": "Australia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.11331578947368592,
+    "coef_": -0.07168421052631575,
+    "intercept_": 148.39726315789468
+  },
+  "39": {
+    "country_code": 39,
+    "country_name": "Southern Europe",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.04750000000000365,
+    "coef_": -0.03312280701754386,
+    "intercept_": 69.22950877192983
+  },
+  "40": {
+    "country_code": 40,
+    "country_name": "Austria",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.07250000000000001,
+    "coef_": -0.024964912280701756,
+    "intercept_": 52.85345614035088
+  },
+  "44": {
+    "country_code": 44,
+    "country_name": "Bahamas",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.4210350877192961,
+    "coef_": 0.017175438596491226,
+    "intercept_": -32.03650877192982
+  },
+  "48": {
+    "country_code": 48,
+    "country_name": "Bahrain",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.7984122807017731,
+    "coef_": -0.1165438596491228,
+    "intercept_": 242.68345614035084
+  },
+  "50": {
+    "country_code": 50,
+    "country_name": "Bangladesh",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.08809649122807073,
+    "coef_": -0.023140350877192982,
+    "intercept_": 48.47317543859649
+  },
+  "51": {
+    "country_code": 51,
+    "country_name": "Armenia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.6285263157894724,
+    "coef_": -0.09989473684210524,
+    "intercept_": 204.44378947368418
+  },
+  "52": {
+    "country_code": 52,
+    "country_name": "Barbados",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.23710526315789482,
+    "coef_": 0.003070175438596486,
+    "intercept_": -2.4006140350877083
+  },
+  "53": {
+    "country_code": 53,
+    "country_name": "Australia and New Zealand",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.1129385964912285,
+    "coef_": -0.0695614035087719,
+    "intercept_": 144.12517543859641
+  },
+  "54": {
+    "country_code": 54,
+    "country_name": "Melanesia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.1940350877192989,
+    "coef_": -0.03649122807017543,
+    "intercept_": 78.81719298245612
+  },
+  "56": {
+    "country_code": 56,
+    "country_name": "Belgium",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.12206140350877603,
+    "coef_": -0.07691228070175435,
+    "intercept_": 158.4067719298245
+  },
+  "57": {
+    "country_code": 57,
+    "country_name": "Micronesia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.12890350877192414,
+    "coef_": -0.06377192982456141,
+    "intercept_": 136.23833333333334
+  },
+  "60": {
+    "country_code": 60,
+    "country_name": "Bermuda",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.21208771929824966,
+    "coef_": 0.013877192982456134,
+    "intercept_": -26.54928070175437
+  },
+  "62": {
+    "country_code": 62,
+    "country_name": "Central and Southern Asia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.13924561403507207,
+    "coef_": -0.08785964912280698,
+    "intercept_": 181.33371929824557
+  },
+  "64": {
+    "country_code": 64,
+    "country_name": "Bhutan",
+    "latest_year": 2022,
+    "mae_on_holdout": 1.79464912280711,
+    "coef_": -0.40622807017543844,
+    "intercept_": 826.5616666666663
+  },
+  "68": {
+    "country_code": 68,
+    "country_name": "Bolivia (Plurinational State of)",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.27921929824561276,
+    "coef_": 0.014245614035087723,
+    "intercept_": -25.20154385964913
+  },
+  "70": {
+    "country_code": 70,
+    "country_name": "Bosnia and Herzegovina",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.3916491228070178,
+    "coef_": 0.006596491228070181,
+    "intercept_": -7.806561403508783
+  },
+  "72": {
+    "country_code": 72,
+    "country_name": "Botswana",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.38770175438596355,
+    "coef_": -0.002614035087719301,
+    "intercept_": 8.426859649122811
+  },
+  "76": {
+    "country_code": 76,
+    "country_name": "Brazil",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.03249999999999997,
+    "coef_": 0.004982456140350879,
+    "intercept_": -6.768175438596495
+  },
+  "84": {
+    "country_code": 84,
+    "country_name": "Belize",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.3481052631578969,
+    "coef_": 0.009947368421052632,
+    "intercept_": -16.58426315789474
+  },
+  "90": {
+    "country_code": 90,
+    "country_name": "Solomon Islands",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.31578947368419463,
+    "coef_": -0.2018421052631579,
+    "intercept_": 411.97868421052635
+  },
+  "96": {
+    "country_code": 96,
+    "country_name": "Brunei Darussalam",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.3528684210526347,
+    "coef_": 0.07536842105263158,
+    "intercept_": -147.72726315789475
+  },
+  "100": {
+    "country_code": 100,
+    "country_name": "Bulgaria",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.7895087719298454,
+    "coef_": -0.19592982456140345,
+    "intercept_": 398.97670175438583
+  },
+  "104": {
+    "country_code": 104,
+    "country_name": "Myanmar",
+    "latest_year": 2022,
+    "mae_on_holdout": 2.0228421052630883,
+    "coef_": -0.31005263157894736,
+    "intercept_": 627.931
+  },
+  "108": {
+    "country_code": 108,
+    "country_name": "Burundi",
+    "latest_year": 2022,
+    "mae_on_holdout": 1.180052631578928,
+    "coef_": -0.17994736842105255,
+    "intercept_": 368.68110526315775
+  },
+  "112": {
+    "country_code": 112,
+    "country_name": "Belarus",
+    "latest_year": 2022,
+    "mae_on_holdout": 1.594763157894779,
+    "coef_": -0.291157894736842,
+    "intercept_": 591.1472631578945
+  },
+  "116": {
+    "country_code": 116,
+    "country_name": "Cambodia",
+    "latest_year": 2022,
+    "mae_on_holdout": 1.1059385964912178,
+    "coef_": -0.15164912280701748,
+    "intercept_": 308.6336140350876
+  },
+  "120": {
+    "country_code": 120,
+    "country_name": "Cameroon",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.2961228070175641,
+    "coef_": -0.06422807017543858,
+    "intercept_": 132.82419298245608
+  },
+  "124": {
+    "country_code": 124,
+    "country_name": "Canada",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.2029298245613902,
+    "coef_": -0.07224561403508772,
+    "intercept_": 151.56933333333336
+  },
+  "132": {
+    "country_code": 132,
+    "country_name": "Cabo Verde",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.3273333333333365,
+    "coef_": -0.049859649122807,
+    "intercept_": 102.75908771929821
+  },
+  "136": {
+    "country_code": 136,
+    "country_name": "Cayman Islands",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.06832417582417594,
+    "coef_": -0.004175824175824179,
+    "intercept_": 10.201758241758249
+  },
+  "140": {
+    "country_code": 140,
+    "country_name": "Central African Republic",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.24977192982452245,
+    "coef_": 0.14933333333333326,
+    "intercept_": -294.0827719298244
+  },
+  "142": {
+    "country_code": 142,
+    "country_name": "Asia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.05720175438596509,
+    "coef_": -0.0797017543859649,
+    "intercept_": 165.4324035087719
+  },
+  "143": {
+    "country_code": 143,
+    "country_name": "Central Asia",
+    "latest_year": 2022,
+    "mae_on_holdout": 1.7397894736841453,
+    "coef_": -0.37126315789473685,
+    "intercept_": 753.9024210526317
+  },
+  "144": {
+    "country_code": 144,
+    "country_name": "Sri Lanka",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.40231578947369373,
+    "coef_": -0.08399999999999998,
+    "intercept_": 170.83968421052626
+  },
+  "145": {
+    "country_code": 145,
+    "country_name": "Western Asia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.15757894736842282,
+    "coef_": -0.023105263157894733,
+    "intercept_": 50.98426315789473
+  },
+  "148": {
+    "country_code": 148,
+    "country_name": "Chad",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.7319385964912232,
+    "coef_": -0.09749122807017539,
+    "intercept_": 198.75408771929816
+  },
+  "150": {
+    "country_code": 150,
+    "country_name": "Europe",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.10033333333333916,
+    "coef_": -0.07080701754385964,
+    "intercept_": 145.95024561403505
+  },
+  "151": {
+    "country_code": 151,
+    "country_name": "Eastern Europe",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.7817105263157822,
+    "coef_": -0.16526315789473675,
+    "intercept_": 337.80999999999983
+  },
+  "152": {
+    "country_code": 152,
+    "country_name": "Chile",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.22125438596490843,
+    "coef_": -0.042649122807017534,
+    "intercept_": 89.00629824561402
+  },
+  "154": {
+    "country_code": 154,
+    "country_name": "Northern Europe",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.044999999999992935,
+    "coef_": -0.07796491228070175,
+    "intercept_": 159.67308771929822
+  },
+  "155": {
+    "country_code": 155,
+    "country_name": "Western Europe",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.06715789473684264,
+    "coef_": -0.05621052631578947,
+    "intercept_": 116.0195789473684
+  },
+  "156": {
+    "country_code": 156,
+    "country_name": "China",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.29756140350877436,
+    "coef_": -0.22717543859649114,
+    "intercept_": 464.17861403508755
+  },
+  "170": {
+    "country_code": 170,
+    "country_name": "Colombia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.14565789473684254,
+    "coef_": -0.020894736842105258,
+    "intercept_": 44.16015789473683
+  },
+  "174": {
+    "country_code": 174,
+    "country_name": "Comoros",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.8222807017543847,
+    "coef_": 0.01903508771929826,
+    "intercept_": -35.53517543859652
+  },
+  "178": {
+    "country_code": 178,
+    "country_name": "Congo",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.5489035087719384,
+    "coef_": 0.12701754385964908,
+    "intercept_": -252.8803508771929
+  },
+  "180": {
+    "country_code": 180,
+    "country_name": "Democratic Republic of the Congo",
+    "latest_year": 2022,
+    "mae_on_holdout": 1.2357543859649143,
+    "coef_": -0.15503508771929822,
+    "intercept_": 323.39443859649117
+  },
+  "188": {
+    "country_code": 188,
+    "country_name": "Costa Rica",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.14494736842105682,
+    "coef_": -0.023894736842105264,
+    "intercept_": 50.15926315789474
+  },
+  "191": {
+    "country_code": 191,
+    "country_name": "Croatia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.09249999999999658,
+    "coef_": -0.0592280701754386,
+    "intercept_": 122.17235087719298
+  },
+  "192": {
+    "country_code": 192,
+    "country_name": "Cuba",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.42579824561404056,
+    "coef_": -0.08582456140350875,
+    "intercept_": 174.0852280701754
+  },
+  "196": {
+    "country_code": 196,
+    "country_name": "Cyprus",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.12017543859649604,
+    "coef_": -0.05535087719298245,
+    "intercept_": 114.13412280701753
+  },
+  "199": {
+    "country_code": 199,
+    "country_name": "Least Developed Countries (LDCs)",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.37855263157894425,
+    "coef_": -0.09263157894736838,
+    "intercept_": 190.70105263157888
+  },
+  "202": {
+    "country_code": 202,
+    "country_name": "Sub-Saharan Africa",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.4503859649122828,
+    "coef_": -0.1039122807017544,
+    "intercept_": 213.96187719298248
+  },
+  "203": {
+    "country_code": 203,
+    "country_name": "Czechia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.1812017543859804,
+    "coef_": -0.11849122807017543,
+    "intercept_": 242.55782456140346
+  },
+  "204": {
+    "country_code": 204,
+    "country_name": "Benin",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.9833157894736915,
+    "coef_": 0.05905263157894734,
+    "intercept_": -113.43252631578942
+  },
+  "208": {
+    "country_code": 208,
+    "country_name": "Denmark",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.08638596491227535,
+    "coef_": -0.046298245614035075,
+    "intercept_": 95.27949122807014
+  },
+  "212": {
+    "country_code": 212,
+    "country_name": "Dominica",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.10784210526315718,
+    "coef_": 0.013105263157894736,
+    "intercept_": -24.120052631578947
+  },
+  "214": {
+    "country_code": 214,
+    "country_name": "Dominican Republic",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.42794736842103337,
+    "coef_": -0.08994736842105262,
+    "intercept_": 183.1032105263158
+  },
+  "218": {
+    "country_code": 218,
+    "country_name": "Ecuador",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.044368421052634055,
+    "coef_": -0.02691228070175438,
+    "intercept_": 57.040982456140334
+  },
+  "222": {
+    "country_code": 222,
+    "country_name": "El Salvador",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.03973684210526229,
+    "coef_": -0.023315789473684213,
+    "intercept_": 50.00405263157895
+  },
+  "226": {
+    "country_code": 226,
+    "country_name": "Equatorial Guinea",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.3536754385965013,
+    "coef_": 0.134859649122807,
+    "intercept_": -268.8835614035088
+  },
+  "231": {
+    "country_code": 231,
+    "country_name": "Ethiopia",
+    "latest_year": 2022,
+    "mae_on_holdout": 2.1054385964912945,
+    "coef_": -0.7557017543859649,
+    "intercept_": 1531.0374561403507
+  },
+  "232": {
+    "country_code": 232,
+    "country_name": "Eritrea",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.38814912280700375,
+    "coef_": -0.053122807017543835,
+    "intercept_": 112.41898245614031
+  },
+  "233": {
+    "country_code": 233,
+    "country_name": "Estonia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.7314385964912438,
+    "coef_": -0.10450877192982454,
+    "intercept_": 215.24391228070172
+  },
+  "234": {
+    "country_code": 234,
+    "country_name": "Faroe Islands",
+    "latest_year": 2022,
+    "mae_on_holdout": 2.2267368421051845,
+    "coef_": -0.3301052631578948,
+    "intercept_": 667.8309473684212
+  },
+  "242": {
+    "country_code": 242,
+    "country_name": "Fiji",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.3522982456140298,
+    "coef_": -0.03892982456140351,
+    "intercept_": 80.61791228070176
+  },
+  "246": {
+    "country_code": 246,
+    "country_name": "Finland",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.07385087719298089,
+    "coef_": -0.06764912280701751,
+    "intercept_": 141.00392982456134
+  },
+  "250": {
+    "country_code": 250,
+    "country_name": "France",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.1258245614035044,
+    "coef_": -0.051701754385964915,
+    "intercept_": 107.20671929824562
+  },
+  "258": {
+    "country_code": 258,
+    "country_name": "French Polynesia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.24799122807017415,
+    "coef_": 0.01933333333333333,
+    "intercept_": -36.58750877192982
+  },
+  "262": {
+    "country_code": 262,
+    "country_name": "Djibouti",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.0830877192982436,
+    "coef_": -0.07945614035087718,
+    "intercept_": 162.2105438596491
+  },
+  "266": {
+    "country_code": 266,
+    "country_name": "Gabon",
+    "latest_year": 2022,
+    "mae_on_holdout": 1.6615964912281123,
+    "coef_": 0.1519122807017544,
+    "intercept_": -300.5296666666666
+  },
+  "268": {
+    "country_code": 268,
+    "country_name": "Georgia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.3510701754386014,
+    "coef_": -0.06849122807017544,
+    "intercept_": 141.20045614035087
+  },
+  "270": {
+    "country_code": 270,
+    "country_name": "Gambia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.12150877192982212,
+    "coef_": 0.011035087719298243,
+    "intercept_": -19.71738596491228
+  },
+  "275": {
+    "country_code": 275,
+    "country_name": "State of Palestine",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.644684210526315,
+    "coef_": -0.030052631578947362,
+    "intercept_": 63.28415789473683
+  },
+  "276": {
+    "country_code": 276,
+    "country_name": "Germany",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.050456140350874534,
+    "coef_": -0.059438596491228055,
+    "intercept_": 122.41687719298243
+  },
+  "288": {
+    "country_code": 288,
+    "country_name": "Ghana",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.4353245614035287,
+    "coef_": -0.08577192982456139,
+    "intercept_": 175.16685964912276
+  },
+  "296": {
+    "country_code": 296,
+    "country_name": "Kiribati",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.668921052631581,
+    "coef_": -0.026684210526315786,
+    "intercept_": 59.284368421052626
+  },
+  "300": {
+    "country_code": 300,
+    "country_name": "Greece",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.22235964912280426,
+    "coef_": -0.018982456140350885,
+    "intercept_": 41.05891228070177
+  },
+  "304": {
+    "country_code": 304,
+    "country_name": "Greenland",
+    "latest_year": 2021,
+    "mae_on_holdout": 0.01913450292398326,
+    "coef_": -0.03301754385964912,
+    "intercept_": 69.14803508771928
+  },
+  "308": {
+    "country_code": 308,
+    "country_name": "Grenada",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.09273684210526334,
+    "coef_": 0.007210526315789473,
+    "intercept_": -12.029105263157893
+  },
+  "320": {
+    "country_code": 320,
+    "country_name": "Guatemala",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.07871929824561408,
+    "coef_": -0.0014561403508772028,
+    "intercept_": 6.005912280701774
+  },
+  "324": {
+    "country_code": 324,
+    "country_name": "Guinea",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.46389473684210203,
+    "coef_": -0.049947368421052615,
+    "intercept_": 105.06005263157891
+  },
+  "328": {
+    "country_code": 328,
+    "country_name": "Guyana",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.7549210526315852,
+    "coef_": -0.13268421052631577,
+    "intercept_": 271.42731578947365
+  },
+  "332": {
+    "country_code": 332,
+    "country_name": "Haiti",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.09857894736842332,
+    "coef_": 0.021210526315789464,
+    "intercept_": -37.74984210526314
+  },
+  "340": {
+    "country_code": 340,
+    "country_name": "Honduras",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.32847368421052126,
+    "coef_": -0.015052631578947375,
+    "intercept_": 34.64231578947369
+  },
+  "344": {
+    "country_code": 344,
+    "country_name": "China, Hong Kong Special Administrative Region",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.12747368421052568,
+    "coef_": -0.05278947368421051,
+    "intercept_": 107.63615789473681
+  },
+  "348": {
+    "country_code": 348,
+    "country_name": "Hungary",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.10249999999999992,
+    "coef_": -0.07171929824561402,
+    "intercept_": 147.9093333333333
+  },
+  "352": {
+    "country_code": 352,
+    "country_name": "Iceland",
+    "latest_year": 2022,
+    "mae_on_holdout": 2.409552631578927,
+    "coef_": 0.17715789473684213,
+    "intercept_": -344.8754736842106
+  },
+  "356": {
+    "country_code": 356,
+    "country_name": "India",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.06897368421052197,
+    "coef_": -0.0814736842105263,
+    "intercept_": 168.1253684210526
+  },
+  "360": {
+    "country_code": 360,
+    "country_name": "Indonesia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.5170087719298292,
+    "coef_": -0.09198245614035087,
+    "intercept_": 188.1285438596491
+  },
+  "364": {
+    "country_code": 364,
+    "country_name": "Iran (Islamic Republic of)",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.7072543859649114,
+    "coef_": 0.0725614035087719,
+    "intercept_": -138.01007017543853
+  },
+  "368": {
+    "country_code": 368,
+    "country_name": "Iraq",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.8472631578947483,
+    "coef_": -0.052736842105263144,
+    "intercept_": 109.69252631578944
+  },
+  "372": {
+    "country_code": 372,
+    "country_name": "Ireland",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.15273684210525232,
+    "coef_": -0.08010526315789472,
+    "intercept_": 163.04042105263153
+  },
+  "376": {
+    "country_code": 376,
+    "country_name": "Israel",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.060894736842105335,
+    "coef_": -0.08178947368421052,
+    "intercept_": 167.5155789473684
+  },
+  "380": {
+    "country_code": 380,
+    "country_name": "Italy",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.05964912280701745,
+    "coef_": -0.023508771929824562,
+    "intercept_": 49.59701754385965
+  },
+  "384": {
+    "country_code": 384,
+    "country_name": "Côte d'Ivoire",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.4956140350877257,
+    "coef_": -0.03938596491228069,
+    "intercept_": 82.99745614035086
+  },
+  "388": {
+    "country_code": 388,
+    "country_name": "Jamaica",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.7599736842105177,
+    "coef_": -0.13226315789473686,
+    "intercept_": 270.4577368421053
+  },
+  "392": {
+    "country_code": 392,
+    "country_name": "Japan",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.05035964912280455,
+    "coef_": -0.072859649122807,
+    "intercept_": 150.16450877192977
+  },
+  "398": {
+    "country_code": 398,
+    "country_name": "Kazakhstan",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.09321929824561392,
+    "coef_": -0.14071929824561405,
+    "intercept_": 288.8429649122807
+  },
+  "400": {
+    "country_code": 400,
+    "country_name": "Jordan",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.1280087719298174,
+    "coef_": -0.049017543859649106,
+    "intercept_": 102.64045614035084
+  },
+  "404": {
+    "country_code": 404,
+    "country_name": "Kenya",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.13127192982456592,
+    "coef_": -0.028333333333333335,
+    "intercept_": 61.66377192982457
+  },
+  "408": {
+    "country_code": 408,
+    "country_name": "Democratic People's Republic of Korea",
+    "latest_year": 2022,
+    "mae_on_holdout": 2.0354824561403535,
+    "coef_": -0.13877192982456138,
+    "intercept_": 285.5207017543859
+  },
+  "410": {
+    "country_code": 410,
+    "country_name": "Republic of Korea",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.0860263157894623,
+    "coef_": -0.0708421052631579,
+    "intercept_": 147.5981052631579
+  },
+  "412": {
+    "country_code": 412,
+    "country_name": "Kosovo",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.24094736842105013,
+    "coef_": -0.09835087719298245,
+    "intercept_": 203.92901754385963
+  },
+  "414": {
+    "country_code": 414,
+    "country_name": "Kuwait",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.25633333333333375,
+    "coef_": 0.057333333333333326,
+    "intercept_": -108.5416140350877
+  },
+  "417": {
+    "country_code": 417,
+    "country_name": "Kyrgyzstan",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.4896228070175461,
+    "coef_": -0.0167719298245614,
+    "intercept_": 38.674807017543856
+  },
+  "418": {
+    "country_code": 418,
+    "country_name": "Lao People's Democratic Republic",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.1445087719298218,
+    "coef_": 0.03433333333333333,
+    "intercept_": -65.52250877192981
+  },
+  "419": {
+    "country_code": 419,
+    "country_name": "Latin America and the Caribbean",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.048377192982456796,
+    "coef_": -0.024298245614035083,
+    "intercept_": 51.95622807017543
+  },
+  "422": {
+    "country_code": 422,
+    "country_name": "Lebanon",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.8941666666666656,
+    "coef_": -0.028070175438596485,
+    "intercept_": 60.46035087719297
+  },
+  "426": {
+    "country_code": 426,
+    "country_name": "Lesotho",
+    "latest_year": 2022,
+    "mae_on_holdout": 1.7511403508772057,
+    "coef_": -0.2632456140350876,
+    "intercept_": 538.4941228070173
+  },
+  "428": {
+    "country_code": 428,
+    "country_name": "Latvia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.21221052631578408,
+    "coef_": -0.08726315789473679,
+    "intercept_": 178.7879999999999
+  },
+  "430": {
+    "country_code": 430,
+    "country_name": "Liberia",
+    "latest_year": 2022,
+    "mae_on_holdout": 1.5516754385964941,
+    "coef_": -0.05407017543859647,
+    "intercept_": 120.27961403508768
+  },
+  "432": {
+    "country_code": 432,
+    "country_name": "Landlocked developing countries (LLDCs)",
+    "latest_year": 2022,
+    "mae_on_holdout": 1.04573684210529,
+    "coef_": -0.22242105263157888,
+    "intercept_": 453.34599999999983
+  },
+  "434": {
+    "country_code": 434,
+    "country_name": "Libya",
+    "latest_year": 2022,
+    "mae_on_holdout": 1.618561403508783,
+    "coef_": 0.22275438596491226,
+    "intercept_": -440.057245614035
+  },
+  "440": {
+    "country_code": 440,
+    "country_name": "Lithuania",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.6153684210526053,
+    "coef_": -0.183578947368421,
+    "intercept_": 372.75589473684204
+  },
+  "442": {
+    "country_code": 442,
+    "country_name": "Luxembourg",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.14696491228069847,
+    "coef_": -0.060649122807017515,
+    "intercept_": 124.40145614035082
+  },
+  "446": {
+    "country_code": 446,
+    "country_name": "China, Macao Special Administrative Region",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.4651666666666606,
+    "coef_": -0.025140350877192977,
+    "intercept_": 51.08591228070175
+  },
+  "450": {
+    "country_code": 450,
+    "country_name": "Madagascar",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.608736842105265,
+    "coef_": 0.022157894736842088,
+    "intercept_": -37.196263157894705
+  },
+  "454": {
+    "country_code": 454,
+    "country_name": "Malawi",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.41599999999998327,
+    "coef_": -0.12689473684210528,
+    "intercept_": 261.14731578947374
+  },
+  "458": {
+    "country_code": 458,
+    "country_name": "Malaysia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.07248245614034765,
+    "coef_": -0.05828070175438596,
+    "intercept_": 121.65698245614034
+  },
+  "462": {
+    "country_code": 462,
+    "country_name": "Maldives",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.35266666666667257,
+    "coef_": 0.038280701754385964,
+    "intercept_": -74.76382456140351
+  },
+  "466": {
+    "country_code": 466,
+    "country_name": "Mali",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.374140350877201,
+    "coef_": 0.03629824561403509,
+    "intercept_": -68.57896491228071
+  },
+  "470": {
+    "country_code": 470,
+    "country_name": "Malta",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.07592105263157006,
+    "coef_": -0.0874736842105263,
+    "intercept_": 177.82621052631575
+  },
+  "478": {
+    "country_code": 478,
+    "country_name": "Mauritania",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.5205438596491232,
+    "coef_": 0.029929824561403497,
+    "intercept_": -57.75375438596489
+  },
+  "480": {
+    "country_code": 480,
+    "country_name": "Mauritius",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.07222807017544258,
+    "coef_": -0.04382456140350877,
+    "intercept_": 90.40880701754385
+  },
+  "484": {
+    "country_code": 484,
+    "country_name": "Mexico",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.12457017543859417,
+    "coef_": -0.024877192982456147,
+    "intercept_": 53.18143859649124
+  },
+  "496": {
+    "country_code": 496,
+    "country_name": "Mongolia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.7650614035087602,
+    "coef_": -0.11761403508771924,
+    "intercept_": 242.11659649122797
+  },
+  "498": {
+    "country_code": 498,
+    "country_name": "Republic of Moldova",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.509868421052642,
+    "coef_": -0.16052631578947368,
+    "intercept_": 328.0810526315789
+  },
+  "499": {
+    "country_code": 499,
+    "country_name": "Montenegro",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.42660989010990136,
+    "coef_": -0.1106153846153846,
+    "intercept_": 226.00927472527468
+  },
+  "504": {
+    "country_code": 504,
+    "country_name": "Morocco",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.12354385964911885,
+    "coef_": -0.01891228070175438,
+    "intercept_": 41.003719298245606
+  },
+  "508": {
+    "country_code": 508,
+    "country_name": "Mozambique",
+    "latest_year": 2022,
+    "mae_on_holdout": 4.043131578947387,
+    "coef_": -0.7469999999999998,
+    "intercept_": 1515.2603684210521
+  },
+  "512": {
+    "country_code": 512,
+    "country_name": "Oman",
+    "latest_year": 2022,
+    "mae_on_holdout": 1.393324561403531,
+    "coef_": 0.19040350877192974,
+    "intercept_": -377.2069649122805
+  },
+  "513": {
+    "country_code": 513,
+    "country_name": "Europe and Northern America",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.09203508771930613,
+    "coef_": -0.0852456140350877,
+    "intercept_": 175.56422807017537
+  },
+  "514": {
+    "country_code": 514,
+    "country_name": "Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.07795614035088028,
+    "coef_": -0.08287719298245613,
+    "intercept_": 170.75291228070174
+  },
+  "515": {
+    "country_code": 515,
+    "country_name": "Developing regions",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.053307017543853474,
+    "coef_": -0.06208771929824558,
+    "intercept_": 129.67475438596486
+  },
+  "516": {
+    "country_code": 516,
+    "country_name": "Namibia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.4860701754386002,
+    "coef_": -0.033491228070175426,
+    "intercept_": 70.07545614035085
+  },
+  "520": {
+    "country_code": 520,
+    "country_name": "Nauru",
+    "latest_year": 2022,
+    "mae_on_holdout": 2.8089912280702585,
+    "coef_": -0.5667543859649121,
+    "intercept_": 1149.1032456140347
+  },
+  "524": {
+    "country_code": 524,
+    "country_name": "Nepal",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.2770526315789519,
+    "coef_": -0.0653157894736842,
+    "intercept_": 136.50942105263155
+  },
+  "528": {
+    "country_code": 528,
+    "country_name": "Netherlands (Kingdom of the)",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.09750000000000003,
+    "coef_": -0.06094736842105262,
+    "intercept_": 125.58063157894733
+  },
+  "531": {
+    "country_code": 531,
+    "country_name": "Curaçao",
+    "latest_year": 2022,
+    "mae_on_holdout": 7.754166666666679,
+    "coef_": -0.1578070175438596,
+    "intercept_": 335.523245614035
+  },
+  "533": {
+    "country_code": 533,
+    "country_name": "Aruba",
+    "latest_year": 2022,
+    "mae_on_holdout": 2.0963070175438885,
+    "coef_": -0.8360175438596488,
+    "intercept_": 1690.1971403508765
+  },
+  "534": {
+    "country_code": 534,
+    "country_name": "Sint Maarten (Dutch part)",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.3792857142857178,
+    "coef_": 0.08785714285714288,
+    "intercept_": -170.98357142857148
+  },
+  "540": {
+    "country_code": 540,
+    "country_name": "New Caledonia",
+    "latest_year": 2022,
+    "mae_on_holdout": 1.9347105263157336,
+    "coef_": 0.3806842105263157,
+    "intercept_": -755.6677368421051
+  },
+  "543": {
+    "country_code": 543,
+    "country_name": "Oceania (exc. Australia and New Zealand)",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.13168421052631807,
+    "coef_": -0.019105263157894715,
+    "intercept_": 43.49247368421048
+  },
+  "548": {
+    "country_code": 548,
+    "country_name": "Vanuatu",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.5718245614035093,
+    "coef_": 0.011035087719298259,
+    "intercept_": -18.531596491228097
+  },
+  "554": {
+    "country_code": 554,
+    "country_name": "New Zealand",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.19162280701753875,
+    "coef_": -0.05535087719298245,
+    "intercept_": 115.52307017543858
+  },
+  "558": {
+    "country_code": 558,
+    "country_name": "Nicaragua",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.18476315789473163,
+    "coef_": -0.04063157894736843,
+    "intercept_": 85.57884210526318
+  },
+  "562": {
+    "country_code": 562,
+    "country_name": "Niger",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.09390350877193065,
+    "coef_": -0.021403508771929813,
+    "intercept_": 47.192807017543835
+  },
+  "566": {
+    "country_code": 566,
+    "country_name": "Nigeria",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.591535087719298,
+    "coef_": -0.0732456140350877,
+    "intercept_": 149.9062280701754
+  },
+  "578": {
+    "country_code": 578,
+    "country_name": "Norway",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.17762280701754185,
+    "coef_": -0.030561403508771925,
+    "intercept_": 64.32943859649122
+  },
+  "583": {
+    "country_code": 583,
+    "country_name": "Micronesia (Federated States of)",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.409289473684219,
+    "coef_": -0.043473684210526296,
+    "intercept_": 93.10178947368416
+  },
+  "584": {
+    "country_code": 584,
+    "country_name": "Marshall Islands",
+    "latest_year": 2022,
+    "mae_on_holdout": 2.1301403508772143,
+    "coef_": 0.09108771929824558,
+    "intercept_": -172.42259649122798
+  },
+  "585": {
+    "country_code": 585,
+    "country_name": "Palau",
+    "latest_year": 2022,
+    "mae_on_holdout": 1.0835087719298215,
+    "coef_": -0.06333333333333328,
+    "intercept_": 138.21298245614025
+  },
+  "586": {
+    "country_code": 586,
+    "country_name": "Pakistan",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.1665350877192947,
+    "coef_": -0.06385964912280702,
+    "intercept_": 132.5061403508772
+  },
+  "591": {
+    "country_code": 591,
+    "country_name": "Panama",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.26106140350876456,
+    "coef_": -0.05398245614035086,
+    "intercept_": 110.21549122807015
+  },
+  "598": {
+    "country_code": 598,
+    "country_name": "Papua New Guinea",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.5112105263157811,
+    "coef_": -0.12168421052631576,
+    "intercept_": 250.5967368421052
+  },
+  "600": {
+    "country_code": 600,
+    "country_name": "Paraguay",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.28140350877192644,
+    "coef_": -0.021140350877192984,
+    "intercept_": 45.3851754385965
+  },
+  "604": {
+    "country_code": 604,
+    "country_name": "Peru",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.19432456140350263,
+    "coef_": -0.02966666666666664,
+    "intercept_": 61.887175438596444
+  },
+  "608": {
+    "country_code": 608,
+    "country_name": "Philippines",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.3639999999999951,
+    "coef_": -0.08652631578947367,
+    "intercept_": 176.95242105263156
+  },
+  "616": {
+    "country_code": 616,
+    "country_name": "Poland",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.16355263157893174,
+    "coef_": -0.1194736842105263,
+    "intercept_": 244.14052631578946
+  },
+  "620": {
+    "country_code": 620,
+    "country_name": "Portugal",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.11224561403508548,
+    "coef_": -0.034701754385964886,
+    "intercept_": 72.35214035087714
+  },
+  "624": {
+    "country_code": 624,
+    "country_name": "Guinea-Bissau",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.5176052631578978,
+    "coef_": -0.12326315789473687,
+    "intercept_": 253.71831578947373
+  },
+  "626": {
+    "country_code": 626,
+    "country_name": "Timor-Leste",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.21029411764705813,
+    "coef_": 0.007941176470588238,
+    "intercept_": -15.252941176470593
+  },
+  "630": {
+    "country_code": 630,
+    "country_name": "Puerto Rico",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.0793947368421059,
+    "coef_": 0.018789473684210523,
+    "intercept_": -37.50805263157894
+  },
+  "634": {
+    "country_code": 634,
+    "country_name": "Qatar",
+    "latest_year": 2022,
+    "mae_on_holdout": 1.3669210526315743,
+    "coef_": -0.1703157894736842,
+    "intercept_": 348.77863157894734
+  },
+  "642": {
+    "country_code": 642,
+    "country_name": "Romania",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.4540964912280702,
+    "coef_": -0.1455964912280701,
+    "intercept_": 295.6286140350876
+  },
+  "643": {
+    "country_code": 643,
+    "country_name": "Russian Federation",
+    "latest_year": 2022,
+    "mae_on_holdout": 1.12038596491225,
+    "coef_": -0.15601754385964917,
+    "intercept_": 319.9155614035089
+  },
+  "646": {
+    "country_code": 646,
+    "country_name": "Rwanda",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.09392105263159078,
+    "coef_": -0.14384210526315785,
+    "intercept_": 293.670894736842
+  },
+  "659": {
+    "country_code": 659,
+    "country_name": "Saint Kitts and Nevis",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.47952631578947125,
+    "coef_": -0.06099999999999997,
+    "intercept_": 125.38847368421047
+  },
+  "662": {
+    "country_code": 662,
+    "country_name": "Saint Lucia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.24243859649122834,
+    "coef_": -0.0117719298245614,
+    "intercept_": 25.732964912280696
+  },
+  "670": {
+    "country_code": 670,
+    "country_name": "Saint Vincent and the Grenadines",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.15471929824561487,
+    "coef_": -0.0019122807017543837,
+    "intercept_": 6.135982456140347
+  },
+  "678": {
+    "country_code": 678,
+    "country_name": "Sao Tome and Principe",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.12168421052631884,
+    "coef_": -0.017210526315789475,
+    "intercept_": 37.34805263157895
+  },
+  "682": {
+    "country_code": 682,
+    "country_name": "Saudi Arabia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.6712807017543729,
+    "coef_": 0.038543859649122804,
+    "intercept_": -71.55408771929825
+  },
+  "686": {
+    "country_code": 686,
+    "country_name": "Senegal",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.34119298245614005,
+    "coef_": 0.0010877192982456218,
+    "intercept_": 1.1584561403508613
+  },
+  "688": {
+    "country_code": 688,
+    "country_name": "Serbia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.6974210526315356,
+    "coef_": -0.19205263157894734,
+    "intercept_": 391.77742105263155
+  },
+  "690": {
+    "country_code": 690,
+    "country_name": "Seychelles",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.20872807017543527,
+    "coef_": -0.041929824561403505,
+    "intercept_": 87.26964912280701
+  },
+  "694": {
+    "country_code": 694,
+    "country_name": "Sierra Leone",
+    "latest_year": 2022,
+    "mae_on_holdout": 1.050868421052649,
+    "coef_": -0.19847368421052627,
+    "intercept_": 403.2552105263157
+  },
+  "702": {
+    "country_code": 702,
+    "country_name": "Singapore",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.47049122807016663,
+    "coef_": -0.07591228070175439,
+    "intercept_": 155.02777192982458
+  },
+  "703": {
+    "country_code": 703,
+    "country_name": "Slovakia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.9110438596491235,
+    "coef_": -0.23259649122807016,
+    "intercept_": 472.56266666666664
+  },
+  "704": {
+    "country_code": 704,
+    "country_name": "Viet Nam",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.21068421052631614,
+    "coef_": -0.027999999999999987,
+    "intercept_": 59.78831578947366
+  },
+  "705": {
+    "country_code": 705,
+    "country_name": "Slovenia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.18694736842106663,
+    "coef_": -0.07747368421052633,
+    "intercept_": 159.61252631578952
+  },
+  "706": {
+    "country_code": 706,
+    "country_name": "Somalia",
+    "latest_year": 2022,
+    "mae_on_holdout": 1.3061315789473877,
+    "coef_": -0.19610526315789473,
+    "intercept_": 401.9570526315789
+  },
+  "710": {
+    "country_code": 710,
+    "country_name": "South Africa",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.0948333333333431,
+    "coef_": -0.10354385964912279,
+    "intercept_": 215.36803508771925
+  },
+  "716": {
+    "country_code": 716,
+    "country_name": "Zimbabwe",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.3792192982456054,
+    "coef_": -0.04075438596491227,
+    "intercept_": 86.70345614035085
+  },
+  "722": {
+    "country_code": 722,
+    "country_name": "Small island developing States (SIDS)",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.22390350877194365,
+    "coef_": -0.05929824561403508,
+    "intercept_": 121.90070175438593
+  },
+  "724": {
+    "country_code": 724,
+    "country_name": "Spain",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.03750000000000353,
+    "coef_": -0.0476315789473684,
+    "intercept_": 98.49763157894733
+  },
+  "728": {
+    "country_code": 728,
+    "country_name": "South Sudan",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.0814285714285724,
+    "coef_": 0.08392857142857144,
+    "intercept_": -167.22035714285715
+  },
+  "729": {
+    "country_code": 729,
+    "country_name": "Sudan",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.7747543859649135,
+    "coef_": 0.004403508771929828,
+    "intercept_": -4.7545438596491305
+  },
+  "740": {
+    "country_code": 740,
+    "country_name": "Suriname",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.8015877192982452,
+    "coef_": 0.011543859649122799,
+    "intercept_": -20.44845614035086
+  },
+  "747": {
+    "country_code": 747,
+    "country_name": "Northern Africa and Western Asia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.1789122807017529,
+    "coef_": -0.012245614035087725,
+    "intercept_": 28.7561754385965
+  },
+  "748": {
+    "country_code": 748,
+    "country_name": "Eswatini",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.42954385964909503,
+    "coef_": -0.08791228070175434,
+    "intercept_": 181.10471929824556
+  },
+  "752": {
+    "country_code": 752,
+    "country_name": "Sweden",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.062394736842106724,
+    "coef_": -0.09021052631578945,
+    "intercept_": 185.29610526315784
+  },
+  "753": {
+    "country_code": 753,
+    "country_name": "Eastern and South-Eastern Asia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.07513157894737743,
+    "coef_": -0.0888421052631579,
+    "intercept_": 184.11747368421055
+  },
+  "756": {
+    "country_code": 756,
+    "country_name": "Switzerland",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.026438596491231814,
+    "coef_": -0.04356140350877192,
+    "intercept_": 89.38959649122805
+  },
+  "760": {
+    "country_code": 760,
+    "country_name": "Syrian Arab Republic",
+    "latest_year": 2022,
+    "mae_on_holdout": 1.8151315789473674,
+    "coef_": -0.13678947368421043,
+    "intercept_": 327.9426842105261
+  },
+  "762": {
+    "country_code": 762,
+    "country_name": "Tajikistan",
+    "latest_year": 2022,
+    "mae_on_holdout": 1.7392280701754852,
+    "coef_": -0.3300701754385965,
+    "intercept_": 669.1825614035088
+  },
+  "764": {
+    "country_code": 764,
+    "country_name": "Thailand",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.3680087719298253,
+    "coef_": -0.004017543859649122,
+    "intercept_": 12.325456140350877
+  },
+  "768": {
+    "country_code": 768,
+    "country_name": "Togo",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.7775438596491082,
+    "coef_": -0.07271929824561402,
+    "intercept_": 154.61938596491223
+  },
+  "776": {
+    "country_code": 776,
+    "country_name": "Tonga",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.2215877192982464,
+    "coef_": 0.004964912280701755,
+    "intercept_": -6.998192982456143
+  },
+  "780": {
+    "country_code": 780,
+    "country_name": "Trinidad and Tobago",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.29896491228069877,
+    "coef_": -0.08207017543859647,
+    "intercept_": 180.92792982456137
+  },
+  "784": {
+    "country_code": 784,
+    "country_name": "United Arab Emirates",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.5144122807017528,
+    "coef_": 0.04764912280701751,
+    "intercept_": -90.50814035087713
+  },
+  "788": {
+    "country_code": 788,
+    "country_name": "Tunisia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.18261403508771334,
+    "coef_": -0.023350877192982455,
+    "intercept_": 50.150333333333336
+  },
+  "792": {
+    "country_code": 792,
+    "country_name": "Türkiye",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.0536052631578926,
+    "coef_": -0.03389473684210525,
+    "intercept_": 71.01715789473681
+  },
+  "795": {
+    "country_code": 795,
+    "country_name": "Turkmenistan",
+    "latest_year": 2022,
+    "mae_on_holdout": 5.43713157894736,
+    "coef_": -0.5235263157894735,
+    "intercept_": 1061.3027894736838
+  },
+  "796": {
+    "country_code": 796,
+    "country_name": "Turks and Caicos Islands",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.9080357142857147,
+    "coef_": -0.048809523809523754,
+    "intercept_": 102.9817857142856
+  },
+  "798": {
+    "country_code": 798,
+    "country_name": "Tuvalu",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.30535964912281277,
+    "coef_": -0.04303508771929823,
+    "intercept_": 89.83275438596489
+  },
+  "800": {
+    "country_code": 800,
+    "country_name": "Uganda",
+    "latest_year": 2022,
+    "mae_on_holdout": 1.3265350877192612,
+    "coef_": -0.19508771929824556,
+    "intercept_": 401.2507017543859
+  },
+  "804": {
+    "country_code": 804,
+    "country_name": "Ukraine",
+    "latest_year": 2022,
+    "mae_on_holdout": 1.0169561403508045,
+    "coef_": -0.3020350877192981,
+    "intercept_": 614.187438596491
+  },
+  "807": {
+    "country_code": 807,
+    "country_name": "North Macedonia",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.19885964912282827,
+    "coef_": -0.11122807017543856,
+    "intercept_": 227.2924561403508
+  },
+  "818": {
+    "country_code": 818,
+    "country_name": "Egypt",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.3569736842105261,
+    "coef_": -0.006842105263157887,
+    "intercept_": 16.488947368421037
+  },
+  "826": {
+    "country_code": 826,
+    "country_name": "United Kingdom of Great Britain and Northern Ireland",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.08907017543859519,
+    "coef_": -0.08443859649122804,
+    "intercept_": 172.39661403508765
+  },
+  "834": {
+    "country_code": 834,
+    "country_name": "United Republic of Tanzania",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.39285964912275406,
+    "coef_": -0.261438596491228,
+    "intercept_": 533.1238245614035
+  },
+  "840": {
+    "country_code": 840,
+    "country_name": "United States of America",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.06650000000000933,
+    "coef_": -0.1109298245614035,
+    "intercept_": 227.94117543859647
+  },
+  "850": {
+    "country_code": 850,
+    "country_name": "United States Virgin Islands",
+    "latest_year": 2021,
+    "mae_on_holdout": 0.0019607843137252703,
+    "coef_": 0.0021568627450980395,
+    "intercept_": -4.32529411764706
+  },
+  "854": {
+    "country_code": 854,
+    "country_name": "Burkina Faso",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.2289298245614051,
+    "coef_": 0.025982456140350864,
+    "intercept_": -47.386122807017514
+  },
+  "858": {
+    "country_code": 858,
+    "country_name": "Uruguay",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.07500000000000073,
+    "coef_": 0.009087719298245618,
+    "intercept_": -16.157228070175446
+  },
+  "860": {
+    "country_code": 860,
+    "country_name": "Uzbekistan",
+    "latest_year": 2022,
+    "mae_on_holdout": 4.939973684210322,
+    "coef_": -1.030157894736842,
+    "intercept_": 2082.8140526315788
+  },
+  "862": {
+    "country_code": 862,
+    "country_name": "Venezuela (Bolivarian Republic of)",
+    "latest_year": 2022,
+    "mae_on_holdout": 4.021903508771933,
+    "coef_": -0.06971929824561401,
+    "intercept_": 145.2734385964912
+  },
+  "882": {
+    "country_code": 882,
+    "country_name": "Samoa",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.7515614035087772,
+    "coef_": -0.06335087719298244,
+    "intercept_": 131.56138596491223
+  },
+  "887": {
+    "country_code": 887,
+    "country_name": "Yemen",
+    "latest_year": 2022,
+    "mae_on_holdout": 0.22147368421051677,
+    "coef_": -0.04989473684210525,
+    "intercept_": 102.88378947368417
+  },
+  "894": {
+    "country_code": 894,
+    "country_name": "Zambia",
+    "latest_year": 2022,
+    "mae_on_holdout": 2.342561403508783,
+    "coef_": -0.19840350877192978,
+    "intercept_": 407.67422807017533
+  }
+}
