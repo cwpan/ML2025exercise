@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<title>AI Energy Consumption Predictor (UN SDG 7.3.1)</title>
+	<style>
+		body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 2rem; }
+		h1 { font-size: 1.5rem; }
+		section { border: 1px solid #ddd; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; }
+		button { padding: 0.5rem 1rem; cursor: pointer; }
+		label { display: block; margin: 0.5rem 0 0.25rem; }
+		input, select { padding: 0.4rem; width: 300px; max-width: 100%; }
+		pre { background: #f7f7f7; padding: 0.75rem; border-radius: 6px; overflow-x: auto; }
+	</style>
+</head>
+<body>
+	<h1>AI Energy Consumption Predictor (UN SDG 7.3.1)</h1>
+
+	<section>
+		<h2>Health</h2>
+		<div id="health">Checking...</div>
+	</section>
+
+	<section>
+		<h2>Refresh Dataset</h2>
+		<p>Downloads the latest UN SDG 7.3.1 data and retrains models per country.</p>
+		<button id="refreshBtn">Refresh now</button>
+		<pre id="refreshOut"></pre>
+	</section>
+
+	<section>
+		<h2>Predict</h2>
+		<label for="country">Country</label>
+		<select id="country"></select>
+		<label for="year">Year (optional)</label>
+		<input id="year" type="number" placeholder="Leave empty for next year" />
+		<div style="margin-top: 0.75rem;">
+			<button id="predictBtn">Predict</button>
+		</div>
+		<pre id="predictOut"></pre>
+	</section>
+
+	<script>
+	async function getJSON(url, opts = {}) {
+		const res = await fetch(url, opts);
+		if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
+		return res.json();
+	}
+
+	async function refreshHealth() {
+		try {
+			const data = await getJSON('/health');
+			document.getElementById('health').textContent = JSON.stringify(data);
+		} catch (e) {
+			document.getElementById('health').textContent = String(e);
+		}
+	}
+
+	async function loadCountries() {
+		try {
+			const list = await getJSON('/countries');
+			const sel = document.getElementById('country');
+			sel.innerHTML = '';
+			if (!Array.isArray(list) || list.length === 0) {
+				const opt = document.createElement('option');
+				opt.value = '';
+				opt.textContent = 'No countries available. Click Refresh Dataset first.';
+				sel.appendChild(opt);
+				return;
+			}
+			for (const item of list) {
+				const opt = document.createElement('option');
+				opt.value = item.country_code;
+				opt.textContent = `${item.country_name} (${item.country_code})`;
+				sel.appendChild(opt);
+			}
+		} catch (e) {
+			console.error(e);
+		}
+	}
+
+	document.getElementById('refreshBtn').addEventListener('click', async () => {
+		const out = document.getElementById('refreshOut');
+		out.textContent = 'Refreshing...';
+		try {
+			const data = await getJSON('/refresh', { method: 'POST' });
+			out.textContent = JSON.stringify(data, null, 2);
+			await loadCountries();
+		} catch (e) {
+			out.textContent = String(e);
+		}
+	});
+
+	document.getElementById('predictBtn').addEventListener('click', async () => {
+		const out = document.getElementById('predictOut');
+		out.textContent = 'Predicting...';
+		const country = document.getElementById('country').value;
+		const yearStr = document.getElementById('year').value;
+		const body = { country_code: country ? Number(country) : undefined };
+		if (yearStr) body.year = Number(yearStr);
+		try {
+			const data = await getJSON('/predict', {
+				method: 'POST',
+				headers: { 'Content-Type': 'application/json' },
+				body: JSON.stringify(body)
+			});
+			out.textContent = JSON.stringify(data, null, 2);
+		} catch (e) {
+			out.textContent = String(e);
+		}
+	});
+
+	// Initial
+	refreshHealth();
+	loadCountries();
+	</script>
+</body>
+</html>

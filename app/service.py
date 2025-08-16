@@ -1,4 +1,4 @@
-from typing import Optional, Dict
+from typing import Optional, Dict, List
 
 import pandas as pd
 
@@ -23,3 +23,14 @@ class EnergyService:
 
 	def predict(self, country_code: int, year: Optional[int] = None) -> Dict:
 		return self.estimator.predict(country_code, year)
+
+	def list_countries(self) -> List[Dict[str, object]]:
+		items: List[Dict[str, object]] = []
+		for model in self.estimator.country_code_to_model.values():
+			items.append({
+				"country_code": model.country_code,
+				"country_name": model.country_name,
+				"latest_year": model.latest_year,
+			})
+		items.sort(key=lambda x: str(x["country_name"]))
+		return items

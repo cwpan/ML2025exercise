@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, render_template
 
 from .service import EnergyService
 from .config import HOST, PORT, DEBUG
@@ -12,6 +12,14 @@ def create_app() -> Flask:
 	@app.get("/health")
 	def health():
 		return jsonify({"status": "ok"})
+
+	@app.get("/")
+	def index():
+		return render_template("index.html")
+
+	@app.get("/countries")
+	def countries():
+		return jsonify(service.list_countries())
 
 	@app.post("/refresh")
 	def refresh():
